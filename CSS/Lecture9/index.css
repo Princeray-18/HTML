@@ -1,0 +1,45 @@
+span {
+    color: rgb(38, 0, 255);
+}
+
+h3 {
+    color: rgb(10, 9, 18);
+}
+
+* {
+    background: rgb(236, 232, 236);
+}
+
+a, li {
+    color: chartreuse;
+}
+
+.hii {
+    color: rgb(233, 79, 8);
+}
+
+#prince {
+    color: blueviolet;
+}
+
+/* *{
+    color: orange;
+} */
+h3 {
+    color: rgb(11, 5, 131);
+}
+
+.rakhi {
+    color: red;
+}
+
+div  a {
+    color: rgb(173, 17, 43);
+}
+h1:hover{
+    background-color: blueviolet;
+}
+h3:hover
+{background-color: violet;}
+li:first-child
+{color: red;}
